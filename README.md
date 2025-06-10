@@ -12,4 +12,4 @@ Once the article is published, our weights will be updated accordingly.
 
 # Main experiment
 1. Modify the data path in trainlist.txt and testlist.txt to your own data path.
-2. Run [python main_SMIL.py].
+2. Run [python SMIL.py].
